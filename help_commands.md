@@ -23,5 +23,6 @@
 * git restore --staged fileName
 * a vim insert
 * git rm -r  --cached .idea
+* git log --pretty
 
 
