@@ -1,4 +1,4 @@
 const _ = (x,y) => x+y
 console.log('hello merge main old');
 console.log('here const f');
-const pppp = ()=> Math.random()
+const qwerty = ()=> Math.random()
