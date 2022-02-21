@@ -47,6 +47,9 @@
 * or git checkout -- <file>
 * git restore app.js *not committed
 * git restore --source HEAD~1 app.js * committed
+* git restore --staged secret.txt
+* git reset 3533afea117a4d95a5dfcb30673efe4d44512dd6
+* git reset --hard 3533afea117a4d95a5dfcb30673efe4d44512dd6 * remove also changes
 * 
 
 
