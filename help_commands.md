@@ -26,6 +26,11 @@
 * git commit --amend
 * git branch
 * git switch
+* git switch -create branchName
+* git commit -a -m "msg"
+* git branch -d branchName
+* git branch -m newName
+* 
 
 #typeorm
 
