@@ -16,7 +16,6 @@
 * git rm -r --cached . 
 * git rm --cached <file>
 * git rm -r --cached <folder>
-* npm run typeorm migration:generate -- -n initial-schema -o
 * rm file.js
 * rm -rf folderName
 * rm -rf .git
@@ -24,5 +23,11 @@
 * a vim insert
 * git rm -r  --cached .idea
 * git log --pretty
+* git commit --amend
+* git branch
+* git switch
 
+#typeorm
 
+* npm run typeorm migration:generate -- --name add-categories-for-questions -o
+* npm run typeorm migration:generate -- -n initial-schema -o
