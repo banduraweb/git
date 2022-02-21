@@ -31,7 +31,7 @@
 * git branch -d branchName
 * git branch -m newName
 * git config --global core.editor "vim --nofork" // vim
-* 
+* git merge --abort
 
 #typeorm
 
