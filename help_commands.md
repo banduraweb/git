@@ -32,8 +32,27 @@
 * git branch -m newName
 * git config --global core.editor "vim --nofork" // vim
 * git merge --abort
+* git stash
+* git stash pop
+* git stash apply * will save in history stashes
+* git stash list
+* git stash apply stash@{2}
+* git stash drop stash@{2}
+* git stash clear
+* git log --oneline
+* git checkout e6a23b8 
+* or git checkout HEAD~1
+* git switch - * back to current branch
+* git checkout HEAD <file> * discard changes *not committed
+* or git checkout -- <file>
+* git restore app.js *not committed
+* git restore --source HEAD~1 app.js * committed
+* 
+
+
 
 #typeorm
 
 * npm run typeorm migration:generate -- --name add-categories-for-questions -o
 * npm run typeorm migration:generate -- -n initial-schema -o
+

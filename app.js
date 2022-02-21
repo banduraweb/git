@@ -2,5 +2,3 @@ const _ = (x,y) => x+y
 console.log('hello merge main old');
 console.log('here const f');
 const qwerty = ()=> Math.random()
-// git restore
-console.log(55);
