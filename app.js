@@ -1,2 +1,2 @@
-const _ = (a,b) => a+b
+const _ = (x,y) => x*y
 console.log('hello merge main old');
