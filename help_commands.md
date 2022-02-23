@@ -55,7 +55,7 @@
 * git switch remoteBranch
 * git fetch origin master
 * git pull = git fetch + git merge
-* test
+* test reset
 
 
 
