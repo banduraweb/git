@@ -40,10 +40,10 @@
 * git stash drop stash@{2}
 * git stash clear
 * git log --oneline
-* git checkout e6a23b8 
-* or git checkout HEAD~1
+* git checkout e6a23b8 * go to previous commit
+* or git checkout HEAD~1 * step
 * git switch - * back to current branch
-* git checkout HEAD <file> * discard changes *not committed
+* git checkout HEAD <file> * discard changes *not committed to state of previous commit
 * or git checkout -- <file>
 * git restore app.js *not committed
 * git restore --source HEAD~1 app.js * committed
