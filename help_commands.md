@@ -56,8 +56,7 @@
 * git fetch origin master
 * git pull = git fetch + git merge
 * reset
-* revert
-* revert2
+* 
 
 
 
