@@ -55,8 +55,7 @@
 * git switch remoteBranch
 * git fetch origin master
 * git pull = git fetch + git merge
-* reset
-* 
+* git rebase -i HEAD~9
 
 
 
