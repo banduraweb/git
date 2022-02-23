@@ -48,14 +48,14 @@
 * git restore app.js *not committed
 * git restore --source HEAD~1 app.js * committed
 * git restore --staged secret.txt
-* git reset 3533afea117a4d95a5dfcb30673efe4d44512dd6
+* git reset 3533afea117a4d95a5dfcb30673efe4d44512dd6 * back to current time before commit
 * git reset --hard 3533afea117a4d95a5dfcb30673efe4d44512dd6 * remove also changes
 * git revert 8b9f66e
 * git branch -r * list remote branches
 * git switch remoteBranch
 * git fetch origin master
 * git pull = git fetch + git merge
-* test
+* test reset
 
 
 
