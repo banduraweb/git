@@ -57,7 +57,7 @@
 * git pull = git fetch + git merge
 * reset
 * revert
-* 
+* revert2
 
 
 
